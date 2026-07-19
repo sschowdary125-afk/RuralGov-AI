@@ -173,7 +173,7 @@ src
 
 Deployed Application:
 
-YOUR_VERCEL_LINK
+https://ruralgov-ai.vercel.app/
 
 
 # Installation
